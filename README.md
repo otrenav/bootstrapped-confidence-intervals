@@ -1,18 +1,15 @@
 
-| [Website](http://links.otrenav.com/website) | [Twitter](http://links.otrenav.com/twitter) | [LinkedIn](http://links.otrenav.com/linkedin)  | [GitHub](http://links.otrenav.com/github) | [GitLab](http://links.otrenav.com/gitlab) | [CodeMentor](http://links.otrenav.com/codementor) |
+[Delta Lab](https://links.deltalab.ai/website) | [Twitter](https://links.deltalab.ai/twitter) | [LinkedIn](https://links.deltalab.ai/linkedin)
 
 ---
 
-# Bootstrap confidence intervals
+# Bootstrapped Confidence Intervals
 
 - Omar Trejo
 - December, 2013
 
-I developed this Matlab code, which provides graphical analysis of various
-confidence intervals generated using the bootstrap technique.
+Matlab POC for graphical analysis of bootstrapped confidence intervals.
 
 ---
 
-> "The best ideas are common property."
->
-> —Seneca
+> "We are the people we have been waiting for."
